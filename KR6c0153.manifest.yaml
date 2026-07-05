@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6c0153_000.yaml, hash: 'sha256:62bad626767442baa1f00f4b2b3ced0aad1ce6d69adbaa3b537529e279873f0e'}
-  - {seq: 1, filename: KR6c0153_001.yaml, hash: 'sha256:bae3d70b1e2ee5f16b77ded2ab516637c0924ade5ed0d888881b6595f42b8df1'}
+  - {seq: 1, filename: KR6c0153_001.yaml, hash: 'sha256:b3b162aa2db13788d812ef34c15ae3cc91116715dff7c7b03428a529e51fb99a'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6c0153_001.markers.yaml, hash: 'sha256:2f9a48c60ea5484385b04b57424f7d62a320f77a8e2d731e7aa1a3211c243a1f'}
+  - {seq: 0, role: markers, filename: assets/KR6c0153_000.markers.yaml, hash: 'sha256:f0ef3fe4444fe967a86db0ceea12a74bde954026567d67b2a52387d3819271ef'}
+  - {seq: 1, role: markers, filename: assets/KR6c0153_001.markers.yaml, hash: 'sha256:64c8b63316b26d9a9025425e37842e900f42d42724580e43fd2c48bd0f2abd1b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 般若波羅蜜多心經注
   type: juan
   level: 1
-hash: sha256:e5ba166222711f1bfdc3b56e94e3f63a190dc8d61241c3b442c04d91e183dd3f
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:1ebeb462b6537196a7d351934c54c73a6ded97f4a37a3005a6dee1732dbc4a9a
